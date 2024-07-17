@@ -1,2 +1,3 @@
-pgm1 - Priority
+pgm1 - Priority Preemptive
 pgm2 - Round Robin
+pgm3 - Priority Non-preemptive
